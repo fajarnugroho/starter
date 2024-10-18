@@ -23,7 +23,9 @@ return {
       "html-lsp",
       "css-lsp",
       "prettier",
-	  "pyre"
+	  "pyre",
+	  "terraformls",
+	  "tflint"
     },
    },
   },
@@ -37,7 +39,8 @@ return {
 			"vimdoc",
 			"html",
 			"css",
-			"python"
+			"python",
+			"terraform"
   		},
   	},
   },
