@@ -25,7 +25,10 @@ return {
       "prettier",
 	  "pyre",
 	  "terraformls",
-	  "tflint"
+	  "tflint",
+	  "bash-language-server",
+	  "json-lsp",
+	  "yaml-language-server"
     },
    },
   },
@@ -40,7 +43,10 @@ return {
 			"html",
 			"css",
 			"python",
-			"terraform"
+			"terraform",
+			"bash",
+			"json",
+			"yaml"
   		},
   	},
   },
